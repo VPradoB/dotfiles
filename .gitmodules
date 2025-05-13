@@ -4,3 +4,6 @@
 [submodule ".config/sway"]
 	path = .config/sway
 	url = git@github.com:VPradoB/sway-config.git
+[submodule ".config/waybar"]
+	path = .config/waybar
+	url = git@github.com:VPradoB/waybar.git

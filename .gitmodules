@@ -7,3 +7,6 @@
 [submodule ".config/waybar"]
 	path = .config/waybar
 	url = git@github.com:VPradoB/waybar.git
+[submodule ".config/wofi"]
+	path = .config/wofi
+	url = git@github.com:VPradoB/wofi.git

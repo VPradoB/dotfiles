@@ -144,7 +144,7 @@ cursor = "CellForeground"
 text = "CellBackground"
 
 [env]
-
+TERM = "xterm-256color"
 
 [font]
 size = 14

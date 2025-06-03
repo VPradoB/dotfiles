@@ -17,6 +17,7 @@ alias cat='bat'
 
 if [[ -n "$TMUX" && -d ".venv" && -f ".venv/bin/activate" ]]; then
     source ./.venv/bin/activate
+    export PYTHONPATH=.
 fi
 
 tmux_sessionizer_widget() {
